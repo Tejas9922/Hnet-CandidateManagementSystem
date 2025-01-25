@@ -1,0 +1,5 @@
+com\dao\DAO.class
+com\controller\Controller.class
+com\entity\Candidate.class
+com\client\ClientApp.class
+com\service\Service.class
